@@ -1,0 +1,12 @@
+{
+  "name": "firebase-admin-user-analytics",
+  "version": "1.0.0",
+  "description": "This Node.js script uses Firebase Admin SDK to retrieve user emails from Firebase Authentication and adds their creation date and last login to a Firestore database, where the document ID is the user's email. Can be used for analytics, tracking user engagement, or generating reports.",
+  "main": "index.js",
+  "author": "Mouhamed Boukari",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "firebase-admin": "^11.6.0"
+  }
+}
