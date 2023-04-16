@@ -32,7 +32,8 @@ The output of the script will be an object containing each user's email address,
 
 Note that this script retrieves all user records, including deleted or disabled users. If you only want to retrieve active users, you can modify the listUsers() method as explained earlier.
 
-
+## Author:
+ @Mohamedboukari
 
 
 

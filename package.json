@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Mouhamed Boukari",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedboukari/firebase-admin-user-analytics"
+  },
   "private": false,
   "dependencies": {
     "firebase-admin": "^11.6.0"
